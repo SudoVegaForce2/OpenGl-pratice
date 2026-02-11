@@ -1,5 +1,5 @@
-##REFERENCES FOR PROJECT 
-
+>>REFERENCES FOR PROJECT 
+>>
 >> wanted to learn OpenGL using the C lanuage to further stregthen my understanding 
 >> I followed this youtube playlist as a guide (https://www.youtube.com/watch?v=W7QkP5s8PeM&list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY&index=4)
 >>
